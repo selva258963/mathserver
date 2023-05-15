@@ -131,9 +131,11 @@ urlpatterns = [
 
 
 ## OUTPUT:
-![OutPut]([selva/out.jpg](https://i.ibb.co/cgVkPZs/out.jpg))  
+ ![out](https://github.com/selva258963/mathserver/assets/121961701/b237a9c5-bc35-41cc-bae4-2afa9a7fe250)
+
 ### HomePage:
-![HomePage]([rec.jpg](https://i.ibb.co/PZ8VhqS/rec.jpg))
+![rec](https://github.com/selva258963/mathserver/assets/121961701/f593cf8c-8a1f-42fd-88f9-ea6684dec3ae)
+
 
 ## Result:
 The program for implementing server side processing is completed.
